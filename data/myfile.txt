@@ -1,0 +1,5 @@
+total 3672
+drwxr-xr-x@  4 happytk  staff      136 May 17 22:09 .
+drwx------@ 49 happytk  staff     1666 May 17 22:08 ..
+-rwxr-xr-x@  1 happytk  staff  1877810 May 12 18:46 WindowsUpdate.log
+-rw-r--r--   1 happytk  staff        0 May 17 22:09 myfile.txt
